@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TurkogluAta
-- 📫 How to reach me @turkogluata@outlook.com.tr
+- 📫 How to reach me turkogluata@outlook.com.tr
 
 <!---
 TurkogluAta/TurkogluAta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
