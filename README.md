@@ -1,7 +1,7 @@
 [![MasterHead](https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png)](https://github.com/TurkogluAta/)
 <h1 align="center">Hi 👋, I'm Ata Turkoglu</h1>
 <h3 align="center">A passionate Computing student</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
 
 - 🌱 I’m currently learning **Advanced Java, Python**
 
