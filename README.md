@@ -3,9 +3,6 @@
 <h3 align="center">A passionate Computing student</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turkogluata&label=Profile%20views&color=0e75b6&style=flat" alt="turkogluata" /> </p>
-
 - 🌱 I’m currently learning **Advanced Java, Python**
 
 - 📫 How to reach me **turkogluata@outlook.com.tr**
